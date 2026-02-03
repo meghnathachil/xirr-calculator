@@ -10,11 +10,6 @@ This project calculates the Extended Internal Rate of Return (XIRR) for a set of
 ## Tech Stack
 - Python
 
-## How to Run
-1. Clone the repository
-2. Make sure Python 3.x is installed
-3. Run the main script: `python3 xirr.py`
-
 ## Why This Project
 Built to demonstrate problem‐solving, numerical computation, and clear code organization.
 
